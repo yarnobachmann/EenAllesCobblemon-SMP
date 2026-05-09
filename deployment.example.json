@@ -8,7 +8,7 @@
       "loaderName": "Fabric Loader",
       "loaderUid": "net.fabricmc.fabric-loader",
       "loaderVersion": "0.18.4",
-      "packUrl": "https://yarnobachmann.github.io/EenAllesCobblemon-SMP/pack.toml",
+      "packUrl": "https://raw.githubusercontent.com/yarnobachmann/EenAllesCobblemon-SMP/main/pack.toml",
       "memoryMb": 8192,
       "jvmArgs": "-XX:+UseZGC -XX:+ZGenerational",
       "iconFile": "modpack icon.png",

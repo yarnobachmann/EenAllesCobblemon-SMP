@@ -11,9 +11,9 @@ This repository hosts the self-updating packwiz version of the EenAllesCobblemon
 ## Hosted URLs
 
 - Pack URL:  
-  `https://yarnobachmann.github.io/EenAllesCobblemon-SMP/pack.toml`
+  `https://raw.githubusercontent.com/yarnobachmann/EenAllesCobblemon-SMP/main/pack.toml`
 - Prism zip URL:  
-  `https://yarnobachmann.github.io/EenAllesCobblemon-SMP/EenAllesCobblemon-SMP-1.0.0-prism.zip`
+  `https://raw.githubusercontent.com/yarnobachmann/EenAllesCobblemon-SMP/main/EenAllesCobblemon-SMP-1.0.0-prism.zip`
 
 ## GitHub Pages publishing
 
