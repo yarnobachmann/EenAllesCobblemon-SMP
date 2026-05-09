@@ -1,0 +1,84 @@
+#The amount of energy consumed by the Snag Machine for each snag attempt.
+# Default: 50
+# Range: 0 ~ 1000
+energy_per_attempt = 50
+#Cooldown in ticks (20 ticks = 1 second) between toggling the Snag Machine on or off.
+# Default: 20
+# Range: 0 ~ 1200
+toggle_cooldown_ticks = 20
+
+[prototype_snag_machine]
+	#The energy capacity of the Prototype Snag Machine.
+	# Default: 50
+	# Range: 1 ~ 10000
+	capacity = 50
+
+[advanced_snag_machine]
+	#The energy capacity of the Advanced Snag Machine.
+	# Default: 100
+	# Range: 1 ~ 10000
+	capacity = 100
+
+[recharge]
+	#If true, the Snag Machine recharges energy when the player wins a battle.
+	on_victory = true
+	#If true, the Snag Machine recharges energy when the player wins a PvP battle.
+	in_pvp = false
+	#The base amount of energy recharged on victory.
+	# Default: 10
+	# Range: 0 ~ 1000
+	base = 10
+	#Additional energy recharged per level of the defeated Pokémon.
+	# Default: 0.25
+	# Range: 0.0 ~ 100.0
+	per_level = 0.25
+	#Additional energy recharged per Pokémon in the NPC's party.
+	# Default: 3
+	# Range: 0 ~ 100
+	per_npc = 3
+	#The minimum energy recharged on victory.
+	# Default: 5
+	# Range: 0 ~ 1000
+	min = 5
+	#The maximum energy recharged on victory.
+	# Default: 15
+	# Range: 0 ~ 1000
+	max = 15
+
+[aura_reader_recharge]
+	#If true, the Aura Reader recharges energy when the player wins a battle.
+	on_victory = true
+	#If true, the Aura Reader recharges energy when the player wins a PvP battle.
+	in_pvp = false
+	#The base amount of energy recharged for the Aura Reader on victory.
+	# Default: 200
+	# Range: 0 ~ 12000
+	base = 200
+	#Additional energy recharged for the Aura Reader per level of the defeated Pokémon.
+	# Default: 5.0
+	# Range: 0.0 ~ 1000.0
+	per_level = 5.0
+	#Additional energy recharged for the Aura Reader per Pokémon in the NPC's party.
+	# Default: 60
+	# Range: 0 ~ 12000
+	per_npc = 60
+	#The minimum energy recharged for the Aura Reader on victory.
+	# Default: 100
+	# Range: 0 ~ 12000
+	min = 100
+	#The maximum energy recharged for the Aura Reader on victory.
+	# Default: 3000
+	# Range: 0 ~ 12000
+	max = 3000
+
+[snagging_pity]
+	#If true, each failed snag attempt increases the success chance of the next attempt.
+	failStackingBonus = true
+	#The bonus added to the catch rate for each failed snag attempt.
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	failBonusPerAttempt = 0.05
+	#The maximum bonus that can be accumulated from failed snag attempts.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	maxFailBonus = 0.25

@@ -1,0 +1,33 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welkom_op_de_eenallescobblemon"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/poke_balls/poke_ball"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "0FDA279940F416CA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "0F903AE6C6D3A074"
+		rewards: [{
+			count: 5
+			id: "3814E0AA1D2C0D2B"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "7B584ADBE00E5E87"
+			type: "checkmark"
+		}]
+		x: -11.0d
+		y: -0.5d
+	}]
+}

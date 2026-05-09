@@ -1,0 +1,13 @@
+name = "EenAllesCobblemon SMP"
+author = "EenAllesKanaal SMP"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e0f2a88607de1ef11c7d4e56e3c46be62213aa496c9673e3889b76bd3ad2ad4"
+
+[versions]
+minecraft = "1.21.1"
+fabric = "0.18.4"

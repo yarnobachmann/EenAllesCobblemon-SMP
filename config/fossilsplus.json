@@ -1,0 +1,28 @@
+{
+  "structureDrops": {
+    "minecraft:chests/desert_pyramid": {
+      "perfect_fossil": 0.005,
+      "iv_fossil": 0.03,
+      "shiny_fossil": 0.03,
+      "ha_fossil": 0.03
+    },
+    "minecraft:chests/jungle_temple": {
+      "perfect_fossil": 0.005,
+      "iv_fossil": 0.03,
+      "shiny_fossil": 0.03,
+      "ha_fossil": 0.03
+    },
+    "minecraft:chests/ancient_city": {
+      "perfect_fossil": 0.01,
+      "iv_fossil": 0.05,
+      "shiny_fossil": 0.05,
+      "ha_fossil": 0.05
+    },
+    "minecraft:chests/stronghold_library": {
+      "perfect_fossil": 0.008,
+      "iv_fossil": 0.04,
+      "shiny_fossil": 0.04,
+      "ha_fossil": 0.04
+    }
+  }
+}

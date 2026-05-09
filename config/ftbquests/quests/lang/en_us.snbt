@@ -1,0 +1,41 @@
+{
+	chapter.0FDA279940F416CA.title: "Welcome!"
+	chapter.12B77C5E8C4C7758.title: "The beginning"
+	chapter.295D72AC535773F8.title: "Where to next?"
+	chapter_group.13A12F3A7A5D2D2A.title: "A new beginning"
+	quest.004ED456F7D837C9.title: "Visit the badlands"
+	quest.0EE9227B3A28C66A.quest_desc: ["One companion is a start. A team is a future. Expand your roster and prepare for the roads ahead."]
+	quest.0EE9227B3A28C66A.quest_subtitle: "The whole team together"
+	quest.0F903AE6C6D3A074.quest_desc: ["Welcome dear trainer! Take these and start ur journey!"]
+	quest.0F903AE6C6D3A074.quest_subtitle: "Starting ur journey"
+	quest.0F903AE6C6D3A074.title: "Welcome"
+	quest.15CD5395FA2837D2.quest_subtitle: "Find a mansion"
+	quest.176ACA29FA076CFE.quest_desc: ["The region is unfamiliar, and the wilds are not forgiving. Before you can chase legends or challenge gyms, you need the basics of survival. Gather wood and begin your journey properly."]
+	quest.176ACA29FA076CFE.quest_subtitle: "Gathering it all"
+	quest.176ACA29FA076CFE.title: "The first steps"
+	quest.18A737E809087B6E.quest_subtitle: "Visit the beach"
+	quest.26C4DA5AA7A66CFE.quest_desc: ["Even the strongest trainers need somewhere to rest. Build a shelter, claim a corner of the wilderness, and survive your first night in comfort. So grap a shear and turn some sheep pokémon naked!"]
+	quest.26C4DA5AA7A66CFE.quest_subtitle: "I call it home"
+	quest.26C4DA5AA7A66CFE.title: "A safe place"
+	quest.317AFA1BF3437302.quest_subtitle: "Visit the dark forest"
+	quest.384D1A1870ECFB7D.quest_subtitle: "Visit the bamboo jungle"
+	quest.39FF5E954638E557.quest_subtitle: "Visit the plains Biome"
+	quest.42F9FE6E4EA23E38.quest_desc: ["The wilderness is vast, and wandering blindly wastes time. A compass is more than a tool. It is the first sign that you are learning the region."]
+	quest.42F9FE6E4EA23E38.quest_subtitle: "Owhh there it is"
+	quest.42F9FE6E4EA23E38.title: "A Sense of Direction"
+	quest.498C1F2B8742E9C2.quest_subtitle: "Visit some birch trees"
+	quest.4ECAFB5BB7586FBF.quest_subtitle: "Know ur structures"
+	quest.4FF67A4B282CE4FC.quest_desc: ["A trainer and their partner need trust, timing, and courage. Battle wild Cobblemon and learn what your team can do under pressure."]
+	quest.4FF67A4B282CE4FC.quest_subtitle: "Beat them all!"
+	quest.4FF67A4B282CE4FC.title: "Learning to Fight"
+	quest.582BADADAB75799C.quest_subtitle: "Visit some blosiming cherry trees"
+	quest.6CAFF01891D8EF36.quest_desc: ["No trainer travels alone for long. Claim your first Cobblemon and begin building the team that will carry you across the region."]
+	quest.6CAFF01891D8EF36.quest_subtitle: "Friend for life"
+	quest.6CAFF01891D8EF36.title: "First partner"
+	task.09376FCF57674539.title: "Defeat 3 trainers!"
+	task.0CCE1A11BFB93144.title: "Claim ur starter"
+	task.31F91B75D728A379.title: "Craft the explorers compass"
+	task.3642C36CB1331793.title: "Craft a Nature's Compass"
+	task.3F0103D454960C2C.title: "Full stack"
+	task.7B584ADBE00E5E87.title: "Welkom"
+}

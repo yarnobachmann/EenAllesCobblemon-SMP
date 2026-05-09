@@ -1,0 +1,145 @@
+screenSize = "STRETCH"
+requireEnergy = true
+smoothScrolling = true
+tenthAnniversaryCape = false
+autocraftingNotification = true
+autocraftingPreviewStyle = "LIST"
+searchBoxAutoSelected = false
+maxRowsStretch = 256
+
+[grid]
+largeFont = false
+energyUsage = 10
+preventSortingWhileShiftIsDown = true
+detailedTooltip = true
+rememberSearchQuery = false
+synchronizer = ""
+resourceType = ""
+sortingDirection = "ASCENDING"
+sortingType = "QUANTITY"
+viewType = "ALL"
+
+[patternGrid]
+energyUsage = 14
+
+[craftingGrid]
+energyUsage = 14
+craftingMatrixCloseBehavior = "NONE"
+
+[controller]
+energyCapacity = 1000
+
+[diskDrive]
+energyUsage = 10
+energyUsagePerDisk = 4
+
+[diskInterface]
+energyUsage = 6
+energyUsagePerDisk = 4
+
+[cable]
+energyUsage = 0
+
+[storageBlock]
+oneKEnergyUsage = 2
+fourKEnergyUsage = 4
+sixteenKEnergyUsage = 6
+sixtyFourKEnergyUsage = 8
+creativeEnergyUsage = 16
+
+[fluidStorageBlock]
+sixtyFourBEnergyUsage = 2
+twoHundredFiftySixBEnergyUsage = 4
+thousandTwentyFourBEnergyUsage = 6
+fourThousandNinetySixBEnergyUsage = 8
+creativeEnergyUsage = 16
+
+[importer]
+energyUsage = 2
+
+[exporter]
+energyUsage = 2
+
+[upgrade]
+speedUpgradeEnergyUsage = 4
+stackUpgradeEnergyUsage = 16
+fortune1UpgradeEnergyUsage = 10
+fortune2UpgradeEnergyUsage = 12
+fortune3UpgradeEnergyUsage = 14
+silkTouchUpgradeEnergyUsage = 16
+regulatorUpgradeEnergyUsage = 16
+rangeUpgradeEnergyUsage = 8
+creativeRangeUpgradeEnergyUsage = 0
+rangeUpgradeRange = 8
+autocraftingUpgradeRange = 8
+
+[iface]
+energyUsage = 4
+
+[externalStorage]
+energyUsage = 6
+
+[detector]
+energyUsage = 2
+
+[destructor]
+energyUsage = 3
+
+[constructor]
+energyUsage = 3
+
+[wirelessGrid]
+energyCapacity = 1000
+openEnergyUsage = 5
+insertEnergyUsage = 5
+extractEnergyUsage = 5
+
+[wirelessTransmitter]
+energyUsage = 16
+baseRange = 16
+
+[storageMonitor]
+energyUsage = 4
+
+[networkReceiver]
+energyUsage = 8
+
+[networkTransmitter]
+energyUsage = 32
+
+[portableGrid]
+energyCapacity = 1000
+openEnergyUsage = 5
+insertEnergyUsage = 5
+extractEnergyUsage = 5
+
+[securityCard]
+energyUsage = 2
+
+[fallbackSecurityCard]
+energyUsage = 4
+
+[securityManager]
+energyUsage = 16
+
+[relay]
+inputNetworkEnergyUsage = 8
+outputNetworkEnergyUsage = 8
+
+[autocrafter]
+energyUsage = 4
+energyUsagePerPattern = 2
+
+[autocrafterManager]
+energyUsage = 16
+searchMode = "ALL"
+viewType = "VISIBLE"
+
+[autocraftingMonitor]
+energyUsage = 16
+
+[wirelessAutocraftingMonitor]
+energyCapacity = 1000
+openEnergyUsage = 5
+cancelEnergyUsage = 5
+cancelAllEnergyUsage = 5

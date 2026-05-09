@@ -1,0 +1,26 @@
+{
+  "title": "Hunt",
+  "fillerMaterial": "minecraft:white_stained_glass_pane",
+  "reloadMessage": "§aReloaded Configs!",
+  "captureHuntBroadcast": "§5[Hunt] §e{player} §ahas successfully hunted §e{pokemon}",
+  "payMessage": "§5[Hunt] §eYou were paid {price} from hunt!",
+  "endedHuntMessage": "§5[Hunt] §3The hunt for {pokemon} has ended!",
+  "newHuntMessage": "§5[Hunt] §bThe hunt for {pokemon} has begun!",
+  "reward": "§6Reward: §e",
+  "timeRemaining": "§9Time Remaining: §b",
+  "lore": {
+    "common": [
+      "§2§lCommon"
+    ],
+    "uncommon": [
+      "§6§lUncommon"
+    ],
+    "rare": [
+      "§9§lRare"
+    ],
+    "ultraRare": [
+      "§5§lUltra Rare"
+    ]
+  },
+  "version": "1.0.0"
+}

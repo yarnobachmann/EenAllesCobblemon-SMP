@@ -1,0 +1,242 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "where_to_next"
+	group: "13A12F3A7A5D2D2A"
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "295D72AC535773F8"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "42F9FE6E4EA23E38"
+			rewards: [
+				{
+					count: 20
+					id: "6D00761257AAB9AD"
+					item: {
+						count: 1
+						id: "minecraft:cooked_chicken"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "52E0CC435323D14E"
+					item: {
+						count: 1
+						id: "minecraft:oak_log"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "6FA58AE19E706CAA"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3642C36CB1331793"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			id: "39FF5E954638E557"
+			rewards: [{
+				count: 15
+				id: "29198F358D6B5FCB"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:plains"
+				id: "5B4807B2E7AA8AB0"
+				type: "biome"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			icon: {
+				id: "minecraft:red_sand"
+			}
+			id: "004ED456F7D837C9"
+			rewards: [{
+				count: 15
+				id: "4BF94F578551CFDC"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:badlands"
+				id: "7C016A9369FECC77"
+				type: "biome"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			id: "384D1A1870ECFB7D"
+			tasks: [{
+				biome: "minecraft:bamboo_jungle"
+				icon: {
+					id: "minecraft:bamboo"
+				}
+				id: "4D02F9589241668F"
+				type: "biome"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			id: "18A737E809087B6E"
+			rewards: [{
+				count: 15
+				id: "6E625C6716D106B7"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:beach"
+				icon: {
+					id: "minecraft:sand"
+				}
+				id: "37333AE682BC156F"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			id: "498C1F2B8742E9C2"
+			rewards: [{
+				count: 15
+				id: "37CB6B4E536C5109"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:birch_forest"
+				icon: {
+					id: "minecraft:birch_sapling"
+				}
+				id: "7365B53C8CF71E3D"
+				type: "biome"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			id: "582BADADAB75799C"
+			rewards: [{
+				count: 15
+				id: "261F40659172EFA3"
+				item: {
+					count: 1
+					id: "cobblemon:roseate_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:cherry_grove"
+				icon: {
+					id: "minecraft:cherry_sapling"
+				}
+				id: "04669F9D77E2B6D0"
+				type: "biome"
+			}]
+			x: -4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			id: "317AFA1BF3437302"
+			rewards: [{
+				count: 15
+				id: "6D2EAD90F7B828FF"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:dark_forest"
+				icon: {
+					id: "minecraft:dark_oak_sapling"
+				}
+				id: "6D29DE885D8A0DFE"
+				type: "biome"
+			}]
+			x: -6.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["42F9FE6E4EA23E38"]
+			id: "4ECAFB5BB7586FBF"
+			rewards: [{
+				count: 100
+				id: "25647C2858B0CA0C"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "31F91B75D728A379"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4ECAFB5BB7586FBF"]
+			id: "15CD5395FA2837D2"
+			rewards: [{
+				count: 15
+				id: "3FA1681CADEEEEDA"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "700969F93D8F982D"
+				structure: "minecraft:mansion"
+				type: "structure"
+			}]
+			x: -8.5d
+			y: -10.0d
+		}
+	]
+}

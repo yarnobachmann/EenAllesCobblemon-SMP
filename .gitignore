@@ -1,0 +1,41 @@
+# Source export and temporary reference clone.
+EenAllesCobblemon 2.0.0 (1)/
+_reference-season3/
+
+# Generated staging.
+dist/prism-staging*/
+
+# Local deployment overrides.
+deployment.json
+
+# Runtime and personal Minecraft state that should not be published.
+options.txt
+servers.dat
+servers.dat_old
+servers.essential.dat
+command_history.txt
+usercache.json
+emi.json
+fancymenu_data/last_world.fmdata
+config/voicechat/username-cache.json
+config/defaultoptions/servers.dat
+config/jei/world/
+config/litematica/
+logs/
+crash-reports/
+saves/
+screenshots/
+downloads/
+local/
+data/
+.fabric/
+.mixin.out/
+essential/cache/
+essential/cosmetic-cache/
+essential/image-cache/
+essential/screenshot-cache/
+essential/screenshot-metadata/
+XaeroWaypoints_BACKUP*/
+xaero/waypoints/
+xaero/world-map/
+Distant_Horizons_server_data/

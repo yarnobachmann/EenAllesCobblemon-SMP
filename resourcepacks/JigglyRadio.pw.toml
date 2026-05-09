@@ -1,0 +1,8 @@
+name = "JigglyRadio"
+filename = "JigglyRadio.zip"
+side = "client"
+
+[download]
+url = "https://media.githubusercontent.com/media/yarnobachmann/EenAllesCobblemon-SMP/main/resourcepacks/JigglyRadio.zip"
+hash-format = "sha256"
+hash = "b766be373fa546f0671e064263f78710943b2ec8a341fe1e2c41075d11b86700"

@@ -1,0 +1,22 @@
+{
+  "points": {
+    "hatch": {
+      "count": 1.0
+    }
+  },
+  "thresholds": {
+    "100": 1.0,
+    "200": 2.0,
+    "300": 3.0
+  },
+  "breakStreakOnSuccess": [],
+  "marbles": 5,
+  "defaultValue": 0.0,
+  "debug": false,
+  "enabled": true,
+  "lockToPlayer": false,
+  "blacklist": [],
+  "whitelist": [],
+  "careAboutForms": true,
+  "notifyPlayer": true
+}

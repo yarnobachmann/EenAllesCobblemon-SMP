@@ -1,0 +1,25 @@
+autofillUnlisted = true
+
+[[pokemonOrderedOptions]]
+resource = "cobblemon:textures/gui/interact/interact_wheel_icon_held_item.png"
+orientation = "NORTH"
+
+[[pokemonOrderedOptions]]
+resource = "cobblemon:textures/gui/interact/interact_wheel_icon_cosmetic_item.png"
+orientation = "NORTHEAST"
+
+[[pokemonOrderedOptions]]
+resource = "cobblemon:textures/gui/interact/interact_wheel_icon_ride.png"
+orientation = "WEST"
+
+[[pokemonOrderedOptions]]
+resource = "cobblemon:textures/gui/interact/interact_wheel_icon_shoulder.png"
+orientation = "NORTHWEST"
+
+[[playerOrderedOptions]]
+resource = "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+orientation = "NORTH"
+
+[[playerOrderedOptions]]
+resource = "cobblemon:textures/gui/interact/interact_wheel_icon_trade.png"
+orientation = "NORTHEAST"

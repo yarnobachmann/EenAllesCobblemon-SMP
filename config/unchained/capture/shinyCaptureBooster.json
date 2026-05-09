@@ -1,0 +1,13 @@
+{
+  "points": {},
+  "thresholds": {},
+  "breakStreakOnSuccess": [],
+  "defaultValue": 0.0,
+  "debug": false,
+  "enabled": true,
+  "lockToPlayer": false,
+  "blacklist": [],
+  "whitelist": [],
+  "careAboutForms": true,
+  "notifyPlayer": true
+}

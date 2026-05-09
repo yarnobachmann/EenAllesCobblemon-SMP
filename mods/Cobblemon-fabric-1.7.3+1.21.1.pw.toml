@@ -1,0 +1,8 @@
+name = "Cobblemon"
+filename = "Cobblemon-fabric-1.7.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/yarnobachmann/EenAllesCobblemon-SMP/main/mods/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "f7c25955176badc444ad6211fc556514fedbdba776227f105fe899f8819d74e3"

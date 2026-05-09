@@ -1,0 +1,9 @@
+{
+  "energy": {
+    "rebornEnergyConversionRate": 1.0
+  },
+  "chunkloader": {
+    "enabled": true,
+    "radius": 2
+  }
+}

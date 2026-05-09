@@ -1,0 +1,8 @@
+name = "Essential"
+filename = "Essential_1-3-10-8_fabric_1-21-1.jar"
+side = "client"
+
+[download]
+url = "https://media.githubusercontent.com/media/yarnobachmann/EenAllesCobblemon-SMP/main/mods/Essential_1-3-10-8_fabric_1-21-1.jar"
+hash-format = "sha256"
+hash = "0ab7bce77b5563d2f90a7c40752d63adee94bf3028b218d6cb6a81c93da7188a"

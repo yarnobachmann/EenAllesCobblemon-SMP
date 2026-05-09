@@ -1,0 +1,20 @@
+{
+  "defaultVariant": "full",
+  "variants": {
+    "full": {
+      "packRoot": ".",
+      "instanceName": "EenAllesCobblemon SMP",
+      "minecraftVersion": "1.21.1",
+      "loaderName": "Fabric Loader",
+      "loaderUid": "net.fabricmc.fabric-loader",
+      "loaderVersion": "0.18.4",
+      "packUrl": "https://yarnobachmann.github.io/EenAllesCobblemon-SMP/pack.toml",
+      "memoryMb": 8192,
+      "jvmArgs": "-XX:+UseZGC -XX:+ZGenerational",
+      "iconFile": "modpack icon.png",
+      "iconKey": "eenallescobblemon-smp",
+      "publishedZipPath": "EenAllesCobblemon-SMP-1.0.0-prism.zip",
+      "distFolder": "dist"
+    }
+  }
+}

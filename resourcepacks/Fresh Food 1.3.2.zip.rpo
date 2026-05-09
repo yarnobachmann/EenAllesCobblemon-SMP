@@ -1,0 +1,4 @@
+{
+    UseModelsWhenDropped: true,
+    Outlines: true
+}

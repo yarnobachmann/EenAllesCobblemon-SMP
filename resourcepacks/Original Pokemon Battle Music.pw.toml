@@ -1,0 +1,8 @@
+name = "Original Pokemon Battle Music"
+filename = "Original Pokemon Battle Music.zip"
+side = "client"
+
+[download]
+url = "https://media.githubusercontent.com/media/yarnobachmann/EenAllesCobblemon-SMP/main/resourcepacks/Original%20Pokemon%20Battle%20Music.zip"
+hash-format = "sha256"
+hash = "73dbf078974cd81e5356f98d0b57b5b88c1dfed9aebbbddbfbcf8a3bc3600bb8"

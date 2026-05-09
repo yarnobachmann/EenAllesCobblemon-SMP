@@ -1,0 +1,8 @@
+name = "COBBLEVERSE Soundtrack"
+filename = "COBBLEVERSE Soundtrack.zip"
+side = "client"
+
+[download]
+url = "https://media.githubusercontent.com/media/yarnobachmann/EenAllesCobblemon-SMP/main/resourcepacks/COBBLEVERSE%20Soundtrack.zip"
+hash-format = "sha256"
+hash = "d6f8f26668d440792b0b2f54931052f98c7a2dc6967202a1c2b0fe80da5bf46e"
