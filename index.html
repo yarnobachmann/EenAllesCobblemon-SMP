@@ -126,6 +126,23 @@
       font-size: 1.05rem;
     }
 
+    .link-box {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 16px;
+      text-align: left;
+    }
+
+    .link-box span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+    }
+
     code {
       overflow-wrap: anywhere;
     }
@@ -148,6 +165,11 @@
       <a class="button secondary" href="pack.toml">Packwiz Pack</a>
       <a class="button secondary" href="https://github.com/yarnobachmann/EenAllesCobblemon-SMP">GitHub Repo</a>
     </div>
+
+    <section class="link-box" aria-label="Modpack link">
+      <span>Modpack Link</span>
+      <strong><code>https://yarnobachmann.github.io/EenAllesCobblemon-SMP/pack.toml</code></strong>
+    </section>
 
     <section class="details" aria-label="Pack details">
       <div>
