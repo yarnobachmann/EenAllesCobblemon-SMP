@@ -10,7 +10,6 @@ deployment.json
 
 # Runtime and personal Minecraft state that should not be published.
 options.txt
-servers.dat
 servers.dat_old
 servers.essential.dat
 command_history.txt

@@ -3616,6 +3616,11 @@ hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
 metafile = false
 
 [[files]]
+file = "servers.dat"
+hash = "cb7da5cb65904333554dcb0b271e59e0a3083aac9a4828d3aff41c040d6697b0"
+metafile = false
+
+[[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders (High Quality).txt"
 hash = "9e21ed2b791e36aea4b16d7125787623fe163a863c0dad53a85bc2d043105971"
 metafile = false

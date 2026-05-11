@@ -179,7 +179,9 @@ foreach ($dir in $contentDirs) {
     }
 }
 
-$rootFiles = @()
+$rootFiles = @(
+    "servers.dat"
+)
 
 foreach ($file in $rootFiles) {
     Add-IndexedFile -Files $indexed -Path (Join-Path $PackRootPath $file) -Metafile $false
